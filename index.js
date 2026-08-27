@@ -1,4 +1,4 @@
-cd ..git add ..\gradlew clean/**
+/**
  * @format
  */
 
